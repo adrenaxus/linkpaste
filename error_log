@@ -1,0 +1,1 @@
+[08-May-2015 15:38:59 UTC] PHP Fatal error:  Class 'User' not found in /home/linkpaste/savovesache/vendor/psy/psysh/src/Psy/ExecutionLoop/Loop.php(76) : eval()'d code on line 1
